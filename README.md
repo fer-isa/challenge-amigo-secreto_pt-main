@@ -2,6 +2,8 @@
 
 Este projeto é uma aplicação simples para gerenciar um sorteio de amigo secreto. Ele permite que os usuários adicionem nomes à lista, validem as entradas, visualizem a lista de participantes e realizem o sorteio de forma aleatória.
 
+![Imagem do Jogo do Amigo Secreto](https://github.com/user-attachments/assets/f950bcab-c61f-4b77-a648-0e2b0478275f)
+
 ## Funcionalidades
 
 ### 1. Adicionar Nomes
@@ -41,5 +43,18 @@ Este desafio foi desenvolvido como parte do curso **ONE (Oracle Next Education)*
 
 ## Link do Projeto
 
-🔗
+🔗 [https://challenge-amigo-secreto-pt-main-green.vercel.app/](https://challenge-amigo-secreto-pt-main-green.vercel.app/)
 #HelloOne #G8 #aprendinaAlura
+
+---
+
+## Experiência do Challenge
+
+🎉 **Badge de Conclusão**: Participei de um **challenge** e finalizei com sucesso, ganhando um badge de reconhecimento pelo meu desempenho! Foi uma experiência **muito legal e divertida**, onde pude aplicar minhas habilidades e aprender ainda mais. Essa vivência reforçou minha motivação em explorar desafios e desenvolver soluções criativas.
+
+![Imagem do Badge](https://github.com/user-attachments/assets/4627c29a-7320-40fd-b429-565b3293c63c)
+
+
+---
+
+
